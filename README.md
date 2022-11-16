@@ -16,7 +16,7 @@ class Me():
         self.tools = {
             "languages" : ["Python", "HTML", "CSS", "JavaScript", "C#"],
             "applications" : ["Office 365", "Figma", "Canva"],
-            "frameworks" : ["Bootstrap", "Flask"]
+            "frameworks" : ["Jinja", "Bootstrap", "Flask"]
         }
 ```
 
