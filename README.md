@@ -10,7 +10,7 @@ class Me():
         self.experience = {
             "studying for" : "Bachelor's Degree in Applied Computer Science",
             "degrees" : ["Associates Degree of Science in Allied Health", "Associates Degree of Art"],
-            "school" : ["Diablo Valley College", "Dominican University of California"]
+            "schools" : ["Diablo Valley College", "Dominican University of California"]
         }
 
         self.tools = {
