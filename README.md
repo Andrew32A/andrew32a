@@ -8,7 +8,7 @@ class Me():
         self.location = "Bay Area, California"
 
         self.experience = {
-            "studying for" : "Bachelor's Degree in Applied Computer Science",
+            "studying_for" : "Bachelor's Degree in Applied Computer Science",
             "degrees" : ["Associates Degree of Science in Allied Health", "Associates Degree of Art"],
             "schools" : ["Diablo Valley College", "Dominican University of California"]
         }
