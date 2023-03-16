@@ -22,8 +22,7 @@ class Me():
 
 ![snake gif](https://github.com/Andrew32A/Andrew32A/blob/output/github-contribution-grid-snake.svg)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Andrew32A&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew32A&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Andrew32A&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew32A&theme=dark&hide_border=false" /></br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew32A&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
