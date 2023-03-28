@@ -14,7 +14,7 @@ class Me():
         }
 
         self.tools = {
-            "languages" : ["Python", "HTML", "CSS", "JavaScript/TypeScript", "C#", "Lua", "MySQL/SQLite"],
+            "languages" : ["Python", "HTML", "CSS", "JavaScript/TypeScript", "C#", "Lua", "Swift", "MySQL/SQLite"],
             "applications" : ["Office 365", "Figma", "Lucid", "Canva", "Trello", "Unity", "Unreal Engine 4/5"],
             "competencies" : ["React", "Tailwind", "Bootstrap", "Flask", "Bokeh", "MongoDB"]
         }
