@@ -1,4 +1,5 @@
 <h1>Hello world! 👋</h1>
+<img src="https://github.com/Andrew32A/andrew32a/blob/main/media/github-intro.gif" align="center">
 
 ``` python
 class Me():
@@ -10,7 +11,8 @@ class Me():
         self.experience = {
             "studying_for" : "Bachelor's Degree in Applied Computer Science",
             "degrees" : ["Associates Degree of Science in Allied Health", "Associates Degree of Art"],
-            "schools" : ["Diablo Valley College", "Dominican University of California"]
+            "schools" : ["Diablo Valley College", "Dominican University of California"],
+            "internships" : ["Campus Dive", "Sisu VR"]
         }
 
         self.tools = {
