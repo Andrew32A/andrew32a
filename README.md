@@ -10,15 +10,17 @@ class Me():
 
         self.experience = {
             "studying_for" : "Bachelor's Degree in Applied Computer Science",
-            "degrees" : ["Associates Degree of Science in Allied Health", "Associates Degree of Art"],
+            "achieved_degrees" : ["Associate's Degree of Science in Allied Health", "Associate's Degree of Art"],
             "schools" : ["Diablo Valley College", "Dominican University of California"],
-            "internships" : ["Campus Dive", "Sisu VR"]
+            "internships" : ["Full-Stack SWE @ Campus Dive", "Unity VR SWE @ Sisu VR"]
         }
 
-        self.tools = {
-            "languages" : ["Python", "HTML", "CSS", "JavaScript/TypeScript", "C#", "Lua", "Swift", "MySQL/SQLite"],
-            "applications" : ["Office 365", "Figma", "Lucid", "Canva", "Trello", "Unity", "Unreal Engine 4/5"],
-            "competencies" : ["React", "Tailwind", "Bootstrap", "Flask", "Bokeh", "MongoDB"]
+        self.about_me = {
+            "hobbies" : ["Cars/Track days", "Rock climbing", "Cycling", "Video games"],
+            "goals" : ["Launch an indie game", "Learn more about Kubernetes"],
+            "fun_fact" : '''I was a nursing student for 2 years and fell in love with computer science in an intro to
+                            Python class! Made a leap of faith and ended up switching to comp sci a few months after.
+                            By far one of the best decisions I've ever made and I'm extremely happy to be here!'''
         }
 ```
 
